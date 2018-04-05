@@ -1,0 +1,43 @@
+h1 {
+	font-family:  fantasy;
+	color: #ffffff;
+	font-size: 300%;
+	margin-top: auto;
+}
+body {
+	background-image: url("0404bbeb4151ac4be79d730e1ca71230-1000.jpg");
+}
+.yeet {
+	margin-top: auto;
+	margin-left: 400px;
+	border-radius: 20px;
+}
+
+	body {
+	  margin: 0;
+	  font-family: Arial, Helvetica, sans-serif;
+	}
+
+	.topnav {
+	  overflow: hidden;
+	  background-color: #333;
+	}
+
+	.topnav a {
+	  float: left;
+	  color: #f2f2f2;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	  font-size: 17px;
+	}
+
+	.topnav a:hover {
+	  background-color: #ddd;
+	  color: black;
+	}
+
+	.topnav a.active {
+	  background-color: #4CAF50;
+	  color: white;
+	}
